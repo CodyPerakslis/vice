@@ -8,3 +8,5 @@ authors=["Cody Perakslis"]
 
 [dependencies]
 clap = { version = "4.1.4", features = ["derive"] }
+serde = { version = "1.0.152", features = ["derive"] }
+serde_json = "1.0.92"
